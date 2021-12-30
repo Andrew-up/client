@@ -1,0 +1,13 @@
+:host {
+  display: flex;
+  justify-content: center;
+  margin: 72px 0;
+}
+.alert-danger {
+  color: red;
+}
+.loginButtons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
